@@ -19,15 +19,15 @@ Built as an independent engineering project to physically validate CFD simulatio
  
 | Feature | Description |
 |---------|-------------|
-| **Live dashboard** | Real-time velocity, drag force, Reynolds number, and Cd — updating every 100ms |
-| **Flow visualization** | Fog machine at the inlet makes airflow patterns and separation visible on camera |
-| **Session logging** | Every test run saved automatically with timestamp and angle of attack |
-| **Validation** | Drag polar compared against published NACA 0012 data at Re ≈ 100,000 |
-| **Modular design** | Flanged joints let you swap tunnel sections, airfoil models, and sensors |
+|  📊 **Live dashboard** | Real-time velocity, drag force, Reynolds number, and Cd — updating every 100ms |
+|  🌫️ **Flow visualization** | Fog machine at the inlet makes airflow patterns and separation visible on camera |
+|  📁 **Session logging** | Every test run saved automatically with timestamp and angle of attack |
+|  📈 **Validation** | Drag polar compared against published NACA 0012 data at Re ≈ 100,000 |
+|  🔧 **Modular design** | Flanged joints let you swap tunnel sections, airfoil models, and sensors |
  
 ---
  
-## ⚙️ How the whole system works
+## How the whole system works
  
 ```
                      Both sensors live inside here 
@@ -54,7 +54,7 @@ Built as an independent engineering project to physically validate CFD simulatio
                           (opens in your browser,
                            updates in real time)
 ``` 
-## 🌫️ Flow Visualization
+## Flow Visualization
  
 A mini fog machine feeds glycol haze into the bell mouth inlet. Under the right lighting the fog makes the boundary layer, wake, and flow separation point around the airfoil completely visible to your eyes and on camera.
  
@@ -76,7 +76,7 @@ This turns every test run into a visual demo clip that actually shows the aerody
  
 ---
  
-## 🛠️ Tech Stack
+## Tech Stack
  
 | Layer | Technology | What it does |
 |-------|-----------|--------------|
@@ -119,13 +119,13 @@ npm start
  
 ---
  
-## 📋 Build Log
+## Build Log
  
 Week-by-week progress with photos → [`docs/build-log.md`](docs/build-log.md)
  
 ---
  
-## 📊 Results
+## Results
  
 Drag polar vs published NACA 0012 data → [`results/`](results/) *(coming once fabrication is complete)*
  
