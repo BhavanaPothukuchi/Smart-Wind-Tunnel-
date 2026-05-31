@@ -53,41 +53,26 @@ Built as an independent engineering project to physically validate CFD simulatio
                              React Live Dashboard
                           (opens in your browser,
                            updates in real time)
-```
- 
-### 🔬 What each part does
- 
-> **Pitot tube** — pokes through the top wall of the test section. Two tiny holes: one faces into the airflow, one faces sideways. The pressure difference tells you exactly how fast the air is moving. Feeds into the MPXV7002DP sensor → voltage → Arduino.
- 
-> **Load cell** — sits under the floor. The airfoil sits on a rod on top of it. When air pushes on the airfoil, the load cell feels the force — exactly like a kitchen scale feels weight. That's your drag force. Feeds into HX711 amplifier → Arduino.
- 
-> **Arduino Uno R3** — reads both sensors 10 times per second and sends them to the Pi over USB as simple text: `12.4,0.032` (velocity, force).
- 
-> **Raspberry Pi 5** — credit-card sized Linux computer. Receives those numbers, calculates Reynolds number and drag coefficient, stores everything in a database, and broadcasts it live over WiFi.
- 
-> **Dashboard** — a webpage on your laptop. Connects to the Pi over WiFi, updates itself in real time with no refreshing. Big live numbers, a chart drawing itself, Cd updating as you tilt the airfoil. One-click CSV download of all your data.
- 
----
- 
+``` 
 ## 🌫️ Flow Visualization
  
-A mini fog machine feeds glycol haze into the bell mouth inlet. Under the right lighting the fog makes the **boundary layer**, **wake**, and **flow separation point** around the airfoil completely visible — to your eyes and on camera.
+A mini fog machine feeds glycol haze into the bell mouth inlet. Under the right lighting the fog makes the boundary layer, wake, and flow separation point around the airfoil completely visible to your eyes and on camera.
  
 This turns every test run into a visual demo clip that actually shows the aerodynamics happening in real time.
  
 ---
  
-## 🏗️ Tunnel Sections
+## Tunnel Sections
  
-| Section | Dimensions | Material |
-|---------|-----------|----------|
-| 🔵 Inlet (Bell mouth) | 250×250 → 200×200mm, 150mm long | 3D printed PLA |
-| 🟣 Contraction | 200×200 → 150×150mm, 200mm long | 3D printed PLA |
-| 🟩 Test section | 150×150mm × 300mm | Clear acrylic + 3D printed PLA frame |
-| 🟠 Diffuser | 150×150 → 200×200mm, 200mm long | 3D printed PLA |
-| 🔴 Fan mount | 200×200mm frame, 122×122mm opening | 3D printed PLA |
+| Dimensions | Material |
+|-----------|----------|
+| Inlet (Bell mouth) | 250×250 → 200×200mm, 150mm long | 3D printed PLA |
+| Contraction | 200×200 → 150×150mm, 200mm long | 3D printed PLA |
+| Test section | 150×150mm × 300mm | Clear acrylic + 3D printed PLA frame |
+| Diffuser | 150×150 → 200×200mm, 200mm long | 3D printed PLA |
+| Fan mount | 200×200mm frame, 122×122mm opening | 3D printed PLA |
  
-> All sections connect via **flanged joints** — M3 bolts through 4mm holes in each flange, with foam weatherstrip tape between faces for an airtight seal.
+> All sections connect via flanged joints: M3 bolts through 4mm holes in each flange, with foam weatherstrip tape between faces for an airtight seal.
  
 ---
  
@@ -107,18 +92,14 @@ This turns every test run into a visual demo clip that actually shows the aerody
  
 ---
  
-## 📦 Hardware & CAD Files
+## Hardware & CAD Files
  
 Full bill of materials with links and prices → [`hardware/BOM.csv`](hardware/BOM.csv)
 **Total build cost: ~$238**
- 
-All CAD files → [`hardware/cad/`](hardware/cad/)
-- `.STEP` — universal format, opens in any CAD software
-- `.STL` — ready to 3D print directly
-- `.SLDPRT` — original SolidWorks source files
+
 ---
  
-## 🚀 Running the Software
+## Running the Software
  
 ### On the Raspberry Pi
 ```bash
