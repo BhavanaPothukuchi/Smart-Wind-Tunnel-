@@ -121,13 +121,13 @@ npm start
  
 ## Build Log
  
-Week-by-week progress with photos → [`docs/build-log.md`](docs/build-log.md)
+Week-by-week progress with photos - [`Build-log.md`](Build-log.md)
  
 ---
  
 ## Results
  
-Drag polar vs published NACA 0012 data → [`results/`](results/) *(coming once fabrication is complete)*
+Drag polar vs published NACA 0012 data - *coming once fabrication is complete*
  
 ---
  
