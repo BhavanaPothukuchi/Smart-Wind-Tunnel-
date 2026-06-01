@@ -1,17 +1,22 @@
 Item,Description,Qty,Unit Price (USD),Supplier,Link,Notes
-Arctic P12 PWM PST 120mm Fan,High static pressure PWM fan for tunnel exit,1,$11.99,Amazon,https://www.amazon.com/dp/B07GJGF56L,PWM speed control built in
-CALPALMY (2-Pack) 12x12 Inch Clear Acrylic Sheet 1/8in (3mm),Laser-cut transparent test section walls,1,$14.99,Amazon,https://www.amazon.com/dp/B0FF9YL31J,Check UCF lab - free laser cutting
-Weld-On #3 Acrylic Cement 4oz + Applicator,Chemical weld for acrylic test section,1,$13.99,Amazon,https://www.amazon.com/dp/B0149IG548,Wicks in by capillary action — no clamping needed
-M3 Screw + Nut Assortment Kit,Bolts for all flange joints,1,$7.99,Amazon,https://www.amazon.com/s?k=m3+screw+nut+assortment+kit,Need ~40x M3 screws + nuts total
-Foam Weatherstrip Tape 3mm,Air seal between flange faces,1,$5.99,Amazon,https://www.amazon.com/s?k=foam+weatherstrip+tape+3mm,Cut to length around each flange perimeter
-PLA Filament 1kg Black,All 3D printed tunnel sections,1,$12.58,Amazon,https://a.co/d/0dQmE15L,1kg of PLA filament
-Mini Fog Machine 400W + Fluid,Flow visualization — makes airflow patterns visible around airfoil on camera,1,$25.99,Amazon,https://www.amazon.com/s?k=mini+fog+machine+400w,Feed tube into bell mouth inlet — use glycol-based haze fluid
-Raspberry Pi 5 2GB,Mini Linux computer — runs Python backend and live dashboard,1,$75.00,Adafruit,https://www.adafruit.com/product/6007,Confirmed $75 — do not substitute with Pi 4
-Official Raspberry Pi 27W USB-C Power Supply,Powers the Raspberry Pi 5,1,$14.00,Amazon,https://www.amazon.com/dp/B0D2XRWQZL,Official Pi 5 supply — Pi 5 needs more power than Pi 4 — don't skip this
-Arduino Uno R3 (Official),Reads sensors and streams data to Pi via USB serial,1,$27.60,Arduino Store,https://store-usa.arduino.cc/products/arduino-uno-rev3,Official board — use this not a clone for grant applications
+Arctic P12 PWM PST 120mm Fan,High static pressure PWM fan for tunnel exit,1,$11.99,Amazon,https://www.amazon.com/dp/B07GJGF56L,Verified by you
+CALPALMY (2-Pack) 12x12 Inch Clear Acrylic Sheet 1/8in (3mm),Laser-cut transparent test section walls,1,$14.99,Amazon,https://www.amazon.com/dp/B0FF9YL31J,Check UCF lab first — may be free
+Acrylic Bonding Cement with Applicator Bottle 4oz,Chemical weld for acrylic test section — capillary action,1,$13.99,Amazon,https://www.amazon.com/dp/B0DS69HMN6,Fast-setting clear adhesive — functionally identical to Weld-On #3
+1000pcs M3 Screws Kit M3x6/8/10/12/16/20/25/30mm Black Zinc,Bolts for all flange joints — use M3x16mm for flanges,1,$12.99,Amazon,https://www.amazon.com/dp/B0G7HV64L6,CAD holes must be 4mm diameter clearance — M3 = 3mm bolt diameter
+uxcell Foam Seal Tape 30mm Wide x 3mm Thick 5m Pack of 2,Air seal between flange faces — 32ft total,1,$7.99,Amazon,https://www.amazon.com/dp/B08LCVXYNK,30mm wide x 3mm thick confirmed — more than enough for all flanges
+PLA Filament 1kg Black,All 3D printed tunnel sections,1,$12.58,Amazon,https://a.co/d/0dQmE15L,Verified by you — check UCF Cuti lab first may be free
+Mini Fog Machine 400W + Fluid,Flow visualization — makes airflow patterns visible on camera,1,$25.99,Amazon,https://www.amazon.com/s?k=mini+fog+machine+400w,Feed tube into bell mouth inlet — glycol haze fluid
+Raspberry Pi 5 2GB,Mini Linux computer — runs Python backend and live dashboard,1,$75.00,Adafruit,https://www.adafruit.com/product/6007,Confirmed $75
+Official Raspberry Pi 27W USB-C Power Supply,Powers the Raspberry Pi 5,1,$14.00,Amazon,https://www.amazon.com/dp/B0D2XRWQZL,Pi 5 needs more power than Pi 4 — do not skip
+Arduino Uno R3 (Official),Reads sensors and streams data to Pi via USB serial,1,$27.60,Arduino Store,https://store-usa.arduino.cc/products/arduino-uno-rev3,Confirmed $27.60 — official board
 MPXV7002DP Differential Pressure Sensor,Airspeed via pitot-static tube,1,$18.46,DigiKey,https://www.digikey.com/en/products/detail/nxp-usa-inc/MPXV7002DP/1168436,Confirmed $18.46 — exact part number do not substitute
-NOYITO HX711 + 1kg Load Cell Combo,Drag force measurement — mounts under test section floor,1,$9.99,Amazon,https://www.amazon.com/dp/B07CN1VDC4,Choose 1kg option at checkout — confirmed available
-Breadboard + 120pc Jumper Wire Kit,No-solder prototyping — all connections plug in,1,$9.99,Amazon,https://www.amazon.com/s?k=breadboard+jumper+wire+kit+arduino,Reusable on every future project
-MicroSD Card 32GB,Raspberry Pi OS storage — flash with Pi Imager before first boot,1,$7.99,Amazon,https://www.amazon.com/s?k=32gb+microsd+card+class+10,Class 10 or faster
-,,,,,,
-TOTAL,$255.56,,,,,
+NOYITO HX711 + 1kg Load Cell Combo,Drag force measurement — mounts under test section floor,1,$9.99,Amazon,https://www.amazon.com/dp/B07BGRDKG5,1kg selected — confirmed correct capacity for this project
+uxcell Brass Round Tube 4mm OD 0.5mm Wall 300mm 3pcs,Pitot tube — pokes through test section lid into airflow,1,$8.99,Amazon,https://www.amazon.com/s?k=uxcell+brass+round+tube+4mm+OD+300mm,Cut to ~100mm with hacksaw — 3 pack gives spares
+Hooshing Silicone Tubing 4mm ID x 6mm OD 10ft,Connects pitot tube ports to MPXV7002DP sensor,1,$6.99,Amazon,https://www.amazon.com/s?k=hooshing+silicone+tubing+4mm+ID+6mm+OD,4mm ID fits snugly over 4mm OD brass pitot tube
+Breadboard + Jumper Wire Kit,No-solder prototyping — all connections plug in,1,$16.99,Amazon,https://www.amazon.com/dp/B0BNH7LYH3,Verified by you
+SanDisk Ultra 32GB microSDHC 120MB/s Class 10 UHS-I,Raspberry Pi OS storage — flash with Pi Imager before first boot,1,$6.99,Amazon,https://www.amazon.com/dp/B08L5HMJVW,Verified by you
+USB-A to USB-B Cable 2-pack,Connects Arduino Uno to Raspberry Pi,1,$7.99,Amazon,https://www.amazon.com/s?k=USB+A+to+USB+B+cable+arduino+2+pack,USB-B is the square connector on the Arduino
+ANOSON Zip Ties 400pcs Assorted 4+6+8+12 inch,Cable management inside tunnel and for wiring,1,$5.99,Amazon,https://www.amazon.com/s?k=ANOSON+zip+ties+400+pack+assorted,Verified by you
+Toolant Allen Wrench Set 26pcs Metric + SAE,Tightens M3 hex socket screws — needs 2.5mm hex key for M3,1,$10.99,Amazon,https://www.amazon.com/s?k=toolant+allen+wrench+set+26pcs+metric+SAE,Verified by you
+,,,,,
+TOTAL,$289.51,,,,
