@@ -11,10 +11,10 @@ Official Raspberry Pi 27W USB-C Power Supply,Powers the Raspberry Pi 5,1,$14.00,
 Arduino Uno R3 (Official),Reads sensors and streams data to Pi via USB serial,1,$27.60,Arduino Store,https://store-usa.arduino.cc/products/arduino-uno-rev3,Confirmed $27.60 — official board
 MPXV7002DP Differential Pressure Sensor,Airspeed via pitot-static tube,1,$18.46,DigiKey,https://www.digikey.com/en/products/detail/nxp-usa-inc/MPXV7002DP/1168436,Confirmed $18.46 — exact part number do not substitute
 NOYITO HX711 + 1kg Load Cell Combo,Drag force measurement — mounts under test section floor,1,$9.99,Amazon,https://www.amazon.com/dp/B07BGRDKG5,1kg selected — confirmed correct capacity for this project
-uxcell Brass Round Tube 4mm OD 0.5mm Wall 300mm 3pcs,Pitot tube — pokes through test section lid into airflow,1,$8.99,Amazon,https://www.amazon.com/s?k=uxcell+brass+round+tube+4mm+OD+300mm,Cut to ~100mm with hacksaw — 3 pack gives spares
-Hooshing Silicone Tubing 4mm ID x 6mm OD 10ft,Connects pitot tube ports to MPXV7002DP sensor,1,$6.99,Amazon,https://www.amazon.com/s?k=hooshing+silicone+tubing+4mm+ID+6mm+OD,4mm ID fits snugly over 4mm OD brass pitot tube
+uxcell Brass Round Tube 4mm OD 0.5mm Wall 300mm 3pcs,Pitot tube — pokes through test section lid into airflow,1,$9.59,Amazon,https://a.co/d/02yKToq7,Cut to ~100mm with hacksaw — 3 pack gives spares
+Hooshing Silicone Tubing 4mm ID x 6mm OD 10ft,Connects pitot tube ports to MPXV7002DP sensor,1,$11.99,Amazon,https://a.co/d/0gU23gT2,4mm ID fits snugly over 4mm OD brass pitot tube
 Breadboard + Jumper Wire Kit,No-solder prototyping — all connections plug in,1,$16.99,Amazon,https://www.amazon.com/dp/B0BNH7LYH3,Verified by you
-SanDisk Ultra 32GB microSDHC 120MB/s Class 10 UHS-I,Raspberry Pi OS storage — flash with Pi Imager before first boot,1,$6.99,Amazon,https://www.amazon.com/dp/B08L5HMJVW,Verified by you
+SanDisk Ultra 32GB microSDHC 120MB/s Class 10 UHS-I,Raspberry Pi OS storage — flash with Pi Imager before first boot,1,$22.12,Amazon,https://www.amazon.com/dp/B08L5HMJVW,Verified by you
 USB-A to USB-B Cable 2-pack,Connects Arduino Uno to Raspberry Pi,1,$6.99,Amazon,https://www.amazon.com/dp/B09JRXT1TY?psc=1&ref_=cm_sw_r_cp_ud_ct_7FY887B95F0K138WP145_3,USB-B is the square connector on the Arduino
 ANOSON Zip Ties 400pcs Assorted 4+6+8+12 inch,Cable management inside tunnel and for wiring,1,$6.99,Amazon,https://www.amazon.com/dp/B0C2Z4L3S6?psc=1&ref_=cm_sw_r_cp_ud_ct_7FY887B95F0K138WP145_2,Verified by you
 Toolant Allen Wrench Set 26pcs Metric + SAE,Tightens M3 hex socket screws — needs 2.5mm hex key for M3,1,$16.99,Amazon,https://www.amazon.com/dp/B0FRDS6VFC?psc=1&ref_=cm_sw_r_cp_ud_ct_7FY887B95F0K138WP145_1,Verified by you
