@@ -1,21 +1,22 @@
 Item,Description,Qty,Unit Price (USD),Supplier,Link
 Arctic P12 PWM PST 120mm Fan,High static pressure PWM fan for tunnel exit,1,$11.99,Amazon,https://www.amazon.com/dp/B07GJGF56L
 CALPALMY (2-Pack) 12x12 Inch Clear Acrylic Sheet 1/8in (3mm),Laser-cut transparent test section walls,1,$14.99,Amazon,https://www.amazon.com/dp/B0FF9YL31J
-Acrylic Bonding Cement with Applicator Bottle 4oz,Chemical weld for acrylic test section — capillary action,1,$19.99,Amazon,https://www.amazon.com/dp/B0DS69HMN6
-1000pcs M3 Screws Kit M3x6/8/10/12/16/20/25/30mm Black Zinc,Bolts for all flange joints — use M3x16mm for flanges,1,$8.99,Amazon,https://www.amazon.com/dp/B0G7HV64L6
-uxcell Foam Seal Tape 30mm Wide x 3mm Thick 5m Pack of 2,Air seal between flange faces — 32ft total,1,$15.89,Amazon,https://www.amazon.com/dp/B08LCVXYNK
+Acrylic Bonding Cement with Applicator Bottle 4oz,Chemical weld for acrylic test section - capillary action,1,$19.99,Amazon,https://www.amazon.com/dp/B0DS69HMN6
+1000pcs M3 Screws Kit M3x6/8/10/12/16/20/25/30mm Black Zinc,Bolts for all flange joints - use M3x16mm for flanges,1,$8.99,Amazon,https://www.amazon.com/dp/B0G7HV64L6
+uxcell Foam Seal Tape 30mm Wide x 3mm Thick 5m Pack of 2,Air seal between flange faces - 32ft total,1,$15.89,Amazon,https://www.amazon.com/dp/B08LCVXYNK
 PLA Filament 1kg Black,All 3D printed tunnel sections,1,$14.49,Amazon,https://a.co/d/0dQmE15L
 PULACO Mist Maker, makes airflow patterns visible on camera,1,$11.99,Amazon,https://a.co/d/0baV8J35
-Raspberry Pi 5 2GB,Mini Linux computer — runs Python backend and live dashboard,1,$75.00,Adafruit,https://www.adafruit.com/product/6007
+Raspberry Pi 5 2GB,Mini Linux computer - runs Python backend and live dashboard,1,$75.00,Adafruit,https://www.adafruit.com/product/6007
 Official Raspberry Pi 27W USB-C Power Supply,Powers the Raspberry Pi 5,1,$22.72,Amazon,https://www.amazon.com/dp/B0D2XRWQZL
 Arduino Uno R3 (Official),Reads sensors and streams data to Pi via USB serial,1,$27.60,Arduino Store,https://store-usa.arduino.cc/products/arduino-uno-rev3
 MPXV7002DP Differential Pressure Sensor,Airspeed via pitot-static tube,1,$22.19,DigiKey,https://www.digikey.com/en/products/detail/nxp-usa-inc/MPXV7002DP/1168436
-NOYITO HX711 + 1kg Load Cell Combo,Drag force measurement — mounts under test section floor,1,$6.69,Amazon,https://www.amazon.com/dp/B07BGRDKG5
-uxcell Brass Round Tube 4mm OD 0.5mm Wall 300mm 3pcs,Pitot tube — pokes through test section lid into airflow,1,$9.59,Amazon,https://a.co/d/02yKToq7
+NOYITO HX711 + 1kg Load Cell Combo,Drag force measurement - mounts under test section floor,1,$6.69,Amazon,https://www.amazon.com/dp/B07BGRDKG5
+uxcell Brass Round Tube 4mm OD 0.5mm Wall 300mm 3pcs,Pitot tube - pokes through test section lid into airflow,1,$9.59,Amazon,https://a.co/d/02yKToq7
 Hooshing Silicone Tubing 4mm ID x 6mm OD 10ft,Connects pitot tube ports to MPXV7002DP sensor,1,$11.99,Amazon,https://a.co/d/0gU23gT2
-Breadboard + Jumper Wire Kit,No-solder prototyping — all connections plug in,1,$16.99,Amazon,https://www.amazon.com/dp/B0BNH7LYH3
-SanDisk Ultra 32GB microSDHC 120MB/s Class 10 UHS-I,Raspberry Pi OS storage — flash with Pi Imager before first boot,1,$22.12,Amazon,https://www.amazon.com/dp/B08L5HMJVW
+Breadboard + Jumper Wire Kit,No-solder prototyping - all connections plug in,1,$16.99,Amazon,https://www.amazon.com/dp/B0BNH7LYH3
+SanDisk Ultra 32GB microSDHC 120MB/s Class 10 UHS-I,Raspberry Pi OS storage - flash with Pi Imager before first boot,1,$22.12,Amazon,https://www.amazon.com/dp/B08L5HMJVW
 USB-A to USB-B Cable 2-pack,Connects Arduino Uno to Raspberry Pi,1,$6.99,Amazon,https://www.amazon.com/dp/B09JRXT1TY?psc=1&ref_=cm_sw_r_cp_ud_ct_7FY887B95F0K138WP145_3
 ANOSON Zip Ties 400pcs Assorted 4+6+8+12 inch,Cable management inside tunnel and for wiring,1,$6.99,Amazon,https://www.amazon.com/dp/B0C2Z4L3S6?psc=1&ref_=cm_sw_r_cp_ud_ct_7FY887B95F0K138WP145_2
 Toolant Allen Wrench Set 26pcs Metric + SAE,Tightens M3 hex socket screws — needs 2.5mm hex key for M3,1,$16.99,Amazon,https://www.amazon.com/dp/B0FRDS6VFC?psc=1&ref_=cm_sw_r_cp_ud_ct_7FY887B95F0K138WP145_1
+,,,,,,
 TOTAL,$289.51,,,,
